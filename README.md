@@ -1,6 +1,5 @@
 # loading...
-17. 
-JavaScript/TypeScript, Rust & Whistle mostly.
+17. JavaScript/TypeScript, Rust & Whistle mostly.
 I mostly make deno modules and co-founded the whistle programming language.
 
 ### stats
