@@ -1,6 +1,6 @@
-# loading...
+# Dean Srebnik
 17. JavaScript/TypeScript, Rust & Whistle mostly.
-I mostly make deno modules and co-founded the whistle programming language.
+I mostly make deno modules and co-founded the whistle programming language and denosaurs member
 
 ### stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=load1n9&show_icons=true&theme=synthwave&count_private=true)
@@ -13,3 +13,4 @@ I mostly make deno modules and co-founded the whistle programming language.
 ### Reach out
 - Twitter: [@1oad1n9](https://twitter.com/1oad1n9)
 - discord: loading...#6605
+- linkedin: [dean-srebnik](https://www.linkedin.com/in/dean-srebnik-80891022b/)
