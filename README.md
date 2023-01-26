@@ -1,5 +1,5 @@
 # load1n9
-17. JavaScript/TypeScript, Rust & Whistle mostly.
+18. JavaScript/TypeScript, Rust & Whistle mostly.
 I mostly make deno modules and co-founded the whistle programming language and denosaurs member
 
 ### stats
