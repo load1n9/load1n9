@@ -7,8 +7,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=load1n9&show_icons=true&theme=synthwave&count_private=true)
 
 ### Weekly Stats
-
-![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=load1n9&theme=synthwave)
+[![wakatime](https://wakatime.com/badge/user/025619fe-113f-4502-b25f-68160ed57cc1.svg)](https://wakatime.com/@025619fe-113f-4502-b25f-68160ed57cc1)
 
 ### languages
 
