@@ -1,6 +1,6 @@
 # load1n9
 
-#### 18 years of age. Cofounder the [whistle programming language](https://github.com/whistle-lang) & the [Deno Windowing](https://github.com/deno-windowing) organization and a core member of the [Denosaurs](https://github.com/denosaurs) organization.
+#### 18 years of age. Cofounder the [whistle programming language](https://github.com/whistle-lang) & the [Deno Windowing](https://github.com/deno-windowing) organization and a core member of the [Denosaurs](https://github.com/denosaurs) organization creating projects such as Netsaur.
 
 ### Github Stats
 
