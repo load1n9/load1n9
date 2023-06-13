@@ -19,5 +19,5 @@
 ### Reach out
 
 - Twitter: [@1oad1n9](https://twitter.com/1oad1n9)
-- discord: loading...#6605
+- discord: load1n9
 - linkedin: [dean-srebnik](https://www.linkedin.com/in/dean-srebnik-80891022b/)
