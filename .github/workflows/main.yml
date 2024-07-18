@@ -12,4 +12,5 @@ jobs:
     steps:
       - uses: dvjn/wakatime-charts@master
         with:
+          IMAGES_FOLDER: "images"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
