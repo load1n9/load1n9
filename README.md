@@ -14,8 +14,10 @@
 
 <h3 align="center">  
   
-![stats2](https://loading-readme.web.val.run/?name=load1n9)
-![stats](https://wakatime.com/share/@load1n9/ebda43d6-eea4-4bf2-9402-e92c99b0ad05.svg)
+![Github Repos](https://loading-readme.web.val.run/?name=load1n9)
+
+![Wakatime Stats](https://loading-waka.web.val.run/chart)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=load1n9&show_icons=true&theme=synthwave&count_private=true)
 
 </h3>
