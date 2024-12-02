@@ -8,6 +8,9 @@
   <a href="https://github.com/load1n9" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
+  <a href="https://bsky.app/profile/loading.trynova.dev" target="_blank">
+    <img src=https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
   <a href="https://twitter.com/1oad1n9" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
