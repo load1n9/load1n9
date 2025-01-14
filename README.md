@@ -23,7 +23,7 @@
 </h1>
 
 <h4 align="center">
- Cofounded <a href="https://github.com/deno-windowing">Deno Windowing </a>, a member of the <a href="https://github.com/denosaurs">Denosaurs</a> organization & the <a href="https://github.com/trynova">Nova</a> team.
+ Cofounded <a href="https://github.com/deno-windowing">Deno Windowing </a>, a member of the <a href="https://github.com/denosaurs">Denosaurs</a> organization & the <a href="https://github.com/trynova">Nova</a> team building an ECMAScript engine in rust.
   
   ![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 </h4>
