@@ -23,8 +23,7 @@
 </h1>
 
 <h4 align="center">
- Cofounder the
-  <a href="https://github.com/whistle-lang">whistle programming language</a> & the <a href="https://github.com/deno-windowing">Deno Windowing </a> organization and a core member of the <a href="https://github.com/denosaurs">Denosaurs</a> organization and member of the <a href="https://github.com/trynova">Nova</a> team.
+ Cofounded <a href="https://github.com/deno-windowing">Deno Windowing </a> and a member of the <a href="https://github.com/denosaurs">Denosaurs</a> organization & the <a href="https://github.com/trynova">Nova</a> team.
   
   ![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 </h4>
