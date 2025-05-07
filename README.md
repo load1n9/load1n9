@@ -30,9 +30,9 @@
 
 <h3 align="center">  
   
-![Github Repos](https://loading-readme.web.val.run/?name=load1n9)
+![Github Repos](https://repo-readme.val.run/?name=load1n9)
 
-![Wakatime Stats](https://loading-waka.web.val.run/chart)
+![Wakatime Stats](https://wakatime-readme.val.run/chart)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=load1n9&show_icons=true&theme=synthwave&count_private=true)
 
