@@ -28,8 +28,10 @@
   ![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 </h4>
 
-<h3 align="center">  
+<h3 align="center">
   
+[![Wakatime Plant](https://plant.val.run/embed/load1n9?theme=dark&plant=mushroom-forest)](https://plant.val.run)
+
 ![Github Repos](https://repo-readme.val.run/?name=load1n9)
 
 ![Wakatime Stats](https://wakatime-readme.val.run/chart)
